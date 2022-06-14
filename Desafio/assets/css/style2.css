@@ -1,0 +1,16 @@
+body h1 {
+  text-align: center;
+}
+body .btn {
+  display: flex;
+  padding-top: 2%;
+  justify-content: center;
+}
+
+.select__container {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=style2.css.map */
